@@ -1,4 +1,4 @@
-# Resume AI — pré-entrevistas locais
+# Resume AI — pré-entrevistas
 
 MVP em Python, Streamlit e SQLite. O candidato conversa por texto ou grava áudio;
 a IA auxilia a coleta de informações. **Não há avaliação, pontuação, ranking,
